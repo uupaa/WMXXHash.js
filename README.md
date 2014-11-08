@@ -1,0 +1,4 @@
+WMXXHash.js
+===========
+
+xxHash function.
